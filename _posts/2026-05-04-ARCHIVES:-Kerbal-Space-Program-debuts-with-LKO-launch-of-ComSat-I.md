@@ -1,9 +1,6 @@
 ---
 layout: post
 ---
-
-# ARCHIVES: Kerbal Space Program debuts with LKO launch of ComSat I
-
 ###### Author: lunatrifx
 
 It's a new era for Kerbalkind following the successful launch of one of three planned microsatellites in ComSat I. 
