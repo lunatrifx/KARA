@@ -1,3 +1,3 @@
 ---
-Title: Welcome to the Kerbal Aerospace and Research Administration!
+title: Welcome to the Kerbal Aerospace and Research Administration!
 ---
